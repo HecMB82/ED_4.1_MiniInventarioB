@@ -15,3 +15,5 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 Este cambio se ha realizado desde una copia clonada del repositorio. Forma rápida
 ## Nota temporal
 Pendiente documentar la nueva mejora en Main
+## Nota temporal
+Pendiente documentar la nueva mejora en Main
